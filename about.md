@@ -11,7 +11,7 @@ But I'll try to keep it rare.
 
 Technical note: I have so far been unable to get my markdown to be rendered in my posts. 
 Have posted a question to the person whose starter blog I used. Please bear with unformatted posts and the odd bit of markdown
-showing through until I manage to fix this.
+showing through until I manage to fix this. I'm a jekyll and github newbie.
 
 ### How this blog came to be
 
