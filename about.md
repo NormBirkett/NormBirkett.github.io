@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /About/
+permalink: /about/
 ---
 
 The central concern of this blog is dynamic polymorphism in C++, as it is now and and as it should be.
