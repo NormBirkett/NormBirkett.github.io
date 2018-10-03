@@ -3,15 +3,15 @@ layout: post
 title: A first draft (slightly improved) of a Manifesto for the (Dynamic Polymorphism) Group
 ---
 
-_A spectre is haunting our industry -- the spectre of SPECTRE.
+_ A spectre is haunting our industry -- the spectre of SPECTRE.
 But we're not here to talk about that. It just made for the perfect first line of a manifesto. Historical inevitability, you might say.
 
 We're here to talk about Dynamic Polymorphism in C++.
 
-_The history of all Dynamic Polymorphic struggle in C++ hitherto has been the history of class struggle. 
+_ The history of all Dynamic Polymorphic struggle in C++ hitherto has been the history of class struggle. 
 That's one of the things we aim to change.
 
-_Dynamic Polymorphisms of the C++ world, unite! Cast off the chains that bind you! I.e., to the C++ inheritance mechanism.
+_ Dynamic Polymorphisms of the C++ world, unite! Cast off the chains that bind you! I.e., to the C++ inheritance mechanism.
 
 OK. Fun over. Time to get serious:
 
@@ -20,7 +20,7 @@ The successes of generic programming in C++ demonstrate that that's a good thing
 We applaud and support all such efforts.
 
 But Static Polymorphism isn't the only game in town.
-**Dynamic Polymorphism (DP) is also a valuable and powerful tool.
+** Dynamic Polymorphism (DP) is also a valuable and powerful tool.
 And it is a necessary tool for certain kinds of problems.
 
 The C++ language has built-in support for only one kind of DP -- virtual functions in class inheritance hierarchies.
