@@ -3,8 +3,7 @@ layout: post
 title: A first draft (greatly improved) of a Manifesto for the (Dynamic Polymorphism) Group
 ---
 
-A tale of two polymorphisms
-===========================
+## A tale of two polymorphisms
 
 We're glad that Static Polymorphism has been getting lots of great support from the language standards in recent years.
 The successes of generic programming in C++ demonstrate that that's a good thing.
@@ -19,8 +18,7 @@ But the power and value of DP extends far beyond that.
 A bunch of us noticed at CppCon2018 that we had all done useful and interesting things involving other kinds of DP.
 So we decided to create and sustain a conversation about all kinds of DP in C++ -- beyond just the kind we have in the language now.
 
-Why is DP important?
-====================
+## Why is DP important?
 
 Our experience suggests that its value is great, and that it gravitates around three centres:
 
@@ -31,8 +29,7 @@ We've found that DP can be useful for managing complex business logic, for decom
 
 Some of us are focused one of these, some on more of them. We think all three are areas of great potential and value.
 
-What do we want to accomplish?
-==============================
+## What do we want to accomplish?
 
 1. Share experience, information, techniques, and insights.
 Cross-pollination will help us all solve the problems we're trying to solve.
@@ -58,8 +55,7 @@ This will be a point of active debate and discussion.
 If and when concrete proposals for the standards committee come out of our efforts, those proposals will be the stronger for
 having come through the winnowing process of group critique and discussion.
 
-The rousing call to action
-==========================
+## A rousing call to action
 
 __A spectre is haunting our industry -- the spectre of SPECTRE.__
 But that's not what we're talking about. It just had a certain historical inevitability, you might say, for a manifesto.
