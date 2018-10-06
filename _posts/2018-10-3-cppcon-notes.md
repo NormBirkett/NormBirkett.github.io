@@ -8,7 +8,7 @@ And mostly because it will be useful to me as I work at digesting everything I s
 
 I'll arrange this by theme, with some general comments at the start.
 
-GENERAL COMMENTS
+## GENERAL COMMENTS
 
 * What a great conference! It was my first technical conference of any kind, but I have to think it is a very good one.
 The speakers ranged from good to brilliant. The material was uniformly interesting and valuable. 
@@ -16,7 +16,7 @@ And the content of each session corresponded well to the description of the sess
 That was refreshing.
 
 * All the sessions will be posted in a few weeks. Meaning video. The slide decks, too, I believe. WHAT. A. RESOURCE.
-The full list of sessions is at https://cppcon.org/cppcon-2018-program/. 
+The full list of sessions is at <https://cppcon.org/cppcon-2018-program/>. 
 I know I'll be spending a long time rewatching, rereading, watching, and reading.
 It often happened that there were two or three talks in the same slot that I really wanted to attend.
 Now I get the chance.
@@ -39,7 +39,7 @@ conference/hotel complex that is still under construction. I plan to attend, if 
 and I will want to return to Bellevue sometime as well. It helps that we have multiple friends in Bellevue
 itself, and a church that we would love to visit again not far from there.
 
-THEME #1: C++ GENERIC PROGRAMMING IS STILL ON THE MARCH
+## THEME #1: C++ GENERIC PROGRAMMING IS STILL ON THE MARCH
 
 The accomplishments of generic programming in C++ are, frankly, astounding.
 The STL. Boost. Countless open- and closed-source projects. Wow.
