@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A first draft (greatly improved) of a Manifesto for the (Dynamic Polymorphism) Group
+title: Second draft of a Manifesto for the (Dynamic Polymorphism) Group
 ---
 
 ## A tale of two polymorphisms
