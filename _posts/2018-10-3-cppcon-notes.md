@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Notes on CppCon2018 Part 1: General Comments; Generic Programming
+title: Notes on CppCon2018 Part 1 -- General Comments; Generic Programming
 ---
 
 Why post this? Because it might be useful to someone else. And because no one else has to read it. 
