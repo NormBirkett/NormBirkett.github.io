@@ -4,21 +4,18 @@ title: About
 permalink: /about/
 ---
 
-The central concern of this blog is dynamic polymorphism in C++, as it is now and and as it should be.
-I will sometimes throw in other C++ topics.
-And I can't guarantee that I'll never wander off topic. 
-But I'll try to keep it rare.
+### What this blog is about
 
-### How this blog came to be
+Over the past several years, I have discovered some coding techniques that I find interesting.
+They appear to be very much off the beaten track, however.
+When I've tried to explain them to people, it has proved difficult, probably because these ideas are too alien to our accustomed ways of thinking.
+Or maybe they're just bad ideas!
 
-At CppCon2018, I got inspired by conversations with Borislav Stanimirov, Jean-Louis Leroy, Erik Valkering and others.
-We held a "birds of a feather" session early on Friday morning on "dynamic polymorphism" -- and to our surprise
-around 25 people came! Apparently we had struck a nerve.
+My intention is to produce an implementation of these ideas in C++ at github, and to make it freely available.
+That will require a good deal more clarification of the ideas.
+I plan to use this blog for some of the necessary ruminations.
 
-The first result of the BoF was the #dynamic_polymorphism Slack channel under Cpplang. 
-If you find this blog at all interesting (and maybe even if you don't!), you will want to check that out.
-
-This blog will be my place for writing about these topics. I'm sure I'll post links to it on the slack channel.
+I am blessed to have two likely collaborators on this effort, and the blog will serve as a vehicle for communication and documentation of our efforts as well.
 
 ### Contact me
 
@@ -26,4 +23,4 @@ This blog will be my place for writing about these topics. I'm sure I'll post li
 
 ### Coming attractions
 
-I'm planning to figure out how to use disqus so that comments will be possible here. But there's always the slack channel in the meantime.
+I'm planning to figure out how to use disqus so that comments will be possible here. 
