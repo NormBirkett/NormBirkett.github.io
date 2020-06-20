@@ -6,7 +6,7 @@
 name: Norm's Blog
 
 # Short bio or description (displayed in the header)
-description: Cogitations on my open-source project
+description: Cogitations on code, coding and programming paradigms
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: 
@@ -26,7 +26,7 @@ footer-links:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: @normed_space
+  twitter: "@normed_space"
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: channel/UCpmfNzfQCErB8v8lcFxIwIg
   googleplus: # anything in your profile username that comes after plus.google.com/
