@@ -26,8 +26,4 @@ I am blessed to have two likely collaborators on this effort, and the blog will 
 
 ### Contact me
 
-[42503567+NormBirkett@users.noreply.github.com](mailto:42503567+NormBirkett@users.noreply.github.com)
-
-### Coming attractions
-
-I'm planning to figure out how to use disqus so that comments will be possible here. 
+The best way is to DM me on Twitter.
