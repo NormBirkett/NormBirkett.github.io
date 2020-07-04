@@ -5,9 +5,6 @@ categories: gogetter
 comments: true
 ---
 
-Introducing Gogetter, Part 0: Intro to The Intro
-=================================================
-
 A few things before you read about the Gogetter project itself--in no particular order:
 
 1. I never set out to create anything like this. Instead, I just fell into it. There were some yicky problems in the codebase at work that I wanted to tackle, so I tackled them, and then I noticed that the result was interesting--to me, at least. Most features of Gogetter really just flowed out of the problems I was trying to solve. 
