@@ -1,5 +1,5 @@
 ---
-title: "Introducing Gogetter, Part 0: Intro to The Intro"
+title: "Introducing Gogetter, Part 0: Intro to the Intro"
 date: 2020-07-04
 categories: gogetter 
 comments: true
