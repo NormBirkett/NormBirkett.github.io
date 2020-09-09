@@ -1,0 +1,43 @@
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            'the norm'
+tagline:          'a C++centric blog'
+description:      'Norm Birkett''s cogitations on code, coding, and programming paradigms'
+url:              https://normbirkett.github.io/
+baseurl:          /
+
+excerpt_separator: "<!--more-->"
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:           'Norm Birkett'
+  url:            https://twitter.com/normed_space
+
+paginate:         5
+
+# Custom vars
+version:             1.0
+github:
+  repo:              https://github.com/NormBirkett
+
+plugins: [jekyll-paginate]
+
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  
+# Enter your Disqus shortname (not your username) to enable commenting on posts
+# You can find your shortname on the Settings page of your Disqus account
+disqus: https-normbirkett-github-io
