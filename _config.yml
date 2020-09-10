@@ -7,7 +7,7 @@ title:            'the norm'
 tagline:          'a C++centric blog'
 description:      'Norm Birkett''s cogitations on code, coding, and programming paradigms'
 url:              https://normbirkett.github.io/
-baseurl:          /
+baseurl:          ''
 
 excerpt_separator: "<!--more-->"
 # Assets
