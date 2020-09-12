@@ -11,7 +11,7 @@ So I've claimed that Gogetter is interesting. What makes it interesting? I'll ex
 _Aside: I do_ not _claim that the Gogetter framework/paradigm is suitable for all programming problems. No tool is! I am totally confident, however, based on extensive experience, that it is very well suited to a certain narrow class of extremely hard problems. And it is an open question to me how much more widely its usefulness might extend. I am fairly confident of two things, though. (a) Gogetter's usefulness does extend to more kinds of problems than the one I built it for. (b) Its usefulness does_ not _extend to a really wide class of problems; it is not a competitor to Object-Oriented Programming, for example!_
 <!--more-->
 
-I'm going to frame this as a series of observations. In most cases, if you've read Parts 1 and 2, you already know enough to see that my observations are accurate. In a few cases, you'll have to take my word for it until we have more publically-accessible experience with Gogetter. I will not attempt to distinguish these in the text.
+I'm going to frame this as a series of observations. In most cases, if you've read Parts 1 and 2, you already know enough to see that my observations are accurate. In a few cases, you'll have to take my word for it until we have more publicly-accessible experience with Gogetter. I will not attempt to distinguish these in the text.
 
 ### Observation #1: Gogetter solves a software problem that has been recognized as very important and very difficult. And it solves it very, very easily.
 
@@ -292,7 +292,7 @@ My name for this new paradigm is __Value-DAG Programming (VDP)__. I will have a 
 * But it scales extremely well as to performance, debugging, and programmer-understanding -- though the last of these is not without its challenges. _These are features not usually associated with any declarative paradigm or language._
 * Most declarative languages and paradigms are special-purpose (SQL, e.g.) But VDP is general-purpose. In that respect, it resembles the __functional programming (FP)__ paradigm, which happens to be another declarative paradigm.
 * But unlike FP, it scales well -- see two bullets ago. Really well. And it works well on extremely complex data, which is not a traditional strength of FP.
-* VDP also shows promise to be a very manageable form of __data-oriented programming (DOP)__, as mentioned above. I would go so far as to say that VDP bids fair to become the first general-purpose, usable implementation of DOP. If so, then it can transform DOP from its current status as a vague, arm-waving set of ideas into a real programming paradigm. I know that's a pretty big claim, but I stand behind it.
+* VDP also shows promise to be a very manageable form of __data-oriented programming (DOP)__, as mentioned above. I would go so far as to say that VDP bids fair to become the first general-purpose, usable implementation of DOP. If so, then it can transform DOP from its current status as a set of ideas that guide people working in other paradigms into a real programming paradigm of its own. I know that's a pretty big claim, but I stand behind it.
 
 People like me who are into programming paradigms should find these claims interesting if I can make them come true. Watch this space!
 
