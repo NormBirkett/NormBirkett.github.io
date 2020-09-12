@@ -6,7 +6,7 @@ categories: gogetter
 comments: true
 ---
 
-### Just the finance charge
+### Starting with just the finance charge calculation
 
 Here's how we would code the calculation of our finance charge in Gogetter. For this first go-round, we'll leave out the other parts of our credit-card statement. The syntax here is an idealized Gogetter syntax that is only pseudocode at this point in time; I'm sure it will take some tweaks to make it realizable in C++.
 <!--more-->

@@ -6,11 +6,25 @@ categories: gogetter
 comments: true
 ---
 
-Before you read about Gogetter itself, you may want to know:
+__Summary__:
+* Gogetter is a __programming framework__ for complex, data-intensive computing problems.
+* It supports a new __programming paradigm__ which has some remarkable properties in the areas of scalability, code quality and debuggability.
+* It provides __universal unit-testability__ of all calculations.
+* It gives you __universal caching__ of all calculated values.
+* So you get all the traditional __performance and correctness benefits__ of caching.
+* Plus it supports a new kind of caching benefit that targets the __avoidance of cache misses__, the biggest performance problem in computing today.
+* Its prototype exhibits stunningly good __performance__.
+* __Code quality__: It makes it hard to write bad code and easy and natural to write good code.
+* It shows great promise for promoting __code reuse__.
+* There is a natural and stepwise __refactoring path__ into it for legacy codebases.
+* And it is __coming soon__, as header-only FOSS, to a C++ development enviroment near you.
+
+Before you read more about Gogetter, you may want to know:
 
 1. I never set out to create anything like this. I just fell into it. There were some yicky problems in the codebase at work that I wanted to tackle, so I tackled them. Then I noticed that the result was interesting. Most features of Gogetter really just flowed out of the problems I was trying to solve. 
+<!--more-->
 
-2. There are some kinds of problems where I am certain that Gogetter is _very_ useful. Those problems aren't very common, however. I suspect Gogetter _might_ be useful on some other kinds of problems, but I don't know. I hope to find out. <!--more-->
+2. There are some kinds of problems where I am certain that Gogetter is _very_ useful. Those problems aren't very common, however. I suspect Gogetter _might_ be useful on some other kinds of problems, but I don't know. I hope to find out.
 
 3. Please don't take anything I say about Gogetter as suggesting that it's the Next Big Thing. _It isn't!_ It's just a tool that has been useful on a couple of projects and that shows potential for further usefulness. Beyond that, all is uncertainty. I do find Gogetter interesting from a number of practical and theoretical points of view. But I emphasize: _It's NOT the Next Big Thing, or a particularly big thing at all._ Just a tool of unknown usefulness.
 

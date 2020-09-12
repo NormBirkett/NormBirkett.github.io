@@ -8,10 +8,10 @@ comments: true
 
 So I've claimed that Gogetter is interesting. What makes it interesting? I'll explain here why I find it interesting, and it seems pretty likely to me that you might find one or more of these points interesting, too. Maybe not all of them! That would be perfectly OK.
 
-_Aside: I do_ not _claim that the Gogetter framework/paradigm is suitable for all programming problems. No tool is! I am totally confident, however, based on extensive experience, that it is very well suited to a certain narrow class of extremely hard problems. And it is an open question to me how much more widely its usefulness might extend. I am fairly confident of two things, though. (a) Gogetter's usefulness does extend to more kinds of problems than the one I built it for. (b) Its usefulness does_ not _extend to a really wide class of problems; it is not a competitor to Object-Oriented Programming, for example!_
-<!--more-->
+> _Aside: I do_ not _claim that the Gogetter framework/paradigm is suitable for all programming problems. No tool is! I am totally confident, however, based on extensive experience, that it is very well suited to a certain narrow class of extremely hard problems. And it is an open question to me how much more widely its usefulness might extend. I am fairly confident of two things, though. (a) Gogetter's usefulness does extend to more kinds of problems than the one I built it for. (b) Its usefulness does_ not _extend to a really wide class of problems; it is not a competitor to Object-Oriented Programming, for example!_
 
-I'm going to frame this as a series of observations. In most cases, if you've read Parts 1 and 2, you already know enough to see that my observations are accurate. In a few cases, you'll have to take my word for it until we have more publicly-accessible experience with Gogetter. I will not attempt to distinguish these in the text.
+I'll frame this as a series of observations. In most cases, if you've read Parts 1 and 2, you already know enough to see that my observations are accurate. In a few cases, you'll have to take my word for it until we have more publicly-accessible experience with Gogetter. I will not attempt to distinguish these in the text.
+<!--more-->
 
 ### Observation #1: Gogetter solves a software problem that has been recognized as very important and very difficult. And it solves it very, very easily.
 
