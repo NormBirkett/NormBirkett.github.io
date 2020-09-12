@@ -10,7 +10,7 @@ Here is the situation:
 
 1. A prototype of Gogetter has been built (and rebuilt once) and has been in heavy production use for several years, with two major projects built on top of it.
 2. That prototype is proprietary.
-3. I could try to persuade my employer to open-source it, but in fact I've learned so much from building the prototype that I don't want to bother with that. Much better to rebuild it from scratch as open-source. It won't bear much resemblance to its prototypes, so I don't see any IP problems with this approach.
+3. I could try to persuade my employer to open-source it, but in fact I've learned so much from building the prototype that I don't want to bother with that. Much better to rebuild it from scratch as open-source. It won't bear much resemblance to the proprietary prototypes.
 
 What are the pieces that need to be built in the Gogetter project? (Not necessarily in order.)
 <!--more-->
