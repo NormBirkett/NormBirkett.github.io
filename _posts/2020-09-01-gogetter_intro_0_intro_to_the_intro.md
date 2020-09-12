@@ -17,7 +17,7 @@ __Summary__:
 * __Code quality__: It makes it hard to write bad code and easy and natural to write good code.
 * It shows great promise for promoting __code reuse__.
 * There is a natural and stepwise __refactoring path__ into it for legacy codebases.
-* And it's __coming soon__, as header-only FOSS, to a C++ development enviroment near you.
+* And it's __coming soon__, as header-only FOSS, to a C++ development environment near you.
 
 Before you read more about Gogetter, you may want to know:
 
