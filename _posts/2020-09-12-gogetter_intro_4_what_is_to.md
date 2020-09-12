@@ -10,7 +10,7 @@ Here is the situation:
 
 1. A prototype of Gogetter has been built (and rebuilt once) and has been in heavy production use for several years, with two major projects built on top of it.
 2. That prototype is proprietary.
-3. I could try to persuade my employer to open-source it, but in fact I've learned so much from building the prototype that I don't want to bother with that. Much better to rebuild it from scratch as open-source. It won't bear much resemblance to the proprietary prototypes.
+3. I've learned so much from building the prototype that it seems best just to rebuild it from scratch as open-source. It won't bear much resemblance to the proprietary prototypes.
 
 What are the pieces that need to be built in the Gogetter project? (Not necessarily in order.)
 <!--more-->
@@ -46,10 +46,10 @@ Note: I intend to provide A and B to potential users in __header-only__ form, an
 These are meant to serve several purposes:
                 
 1. As __documentation-by-example__ to those who are interested in learning how to use Gogetter
-2. As research projects as to how well Gogetter serves __differently-shaped calculations__
+2. As research into how well Gogetter serves __differently-shaped calculations__
 3. As __validations of the syntax__ defined in A1 and A2, to make sure it is adequate for reasonably (but typically) complex projects
 
-There are a couple of advanced features I want to build early on:
+There are a couple of advanced features I want to build next:
 
 > __E.__ Gogets with __quantification__, whether universal or existential
 
@@ -57,16 +57,16 @@ There are a couple of advanced features I want to build early on:
 
 > __G.__ A mechanism for defining __subscript system converters__
 
-And then there are several longer-term questions I have, by way of further research and development on Gogetter:
+And then there are several longer-term questions I hope to pursue after all of that:
 
 * It should be possible to add __parallelization__ to the gogetter. How well would this work?
-* The primary use-case for Gogetter is on immutable value-structures. But can Gogetter be extended to serve __stateful calculations__? I know it can, and I believe this might be useful in a few realms -- and in a strictly limited way.
+* The primary use-case for Gogetter is on immutable value-structures. But can Gogetter be extended to serve highly __stateful calculations__? I know it can work on cases with very limited state, and that has been quite useful.
 * Can the values of gogettums be streams, with long-running gogettum calculations consuming or producing them? If so, we would have a truly push-based OR pull-based __reactive programming__ framework.
 
-Is Gogetter the long-sought 'one tool to bring them all and in the darkness bind them'? I hope not! That sounds awful! But is it a tool that deserves to see the light of day and to be tried out on various problems until we can figure out how to tell which problems it will solve well? I think so -- from all that I've seen of it while building its prototype and using it pretty heavily in real-world code (and teaching other developers to use it).
+Is Gogetter the long-sought "one tool to bring them all and in the darkness bind them"? I hope not! That sounds awful! But is it a tool that deserves to see the light of day and to be tried out on various problems until we can figure out how to tell which problems it will solve well? I think so -- from all that I've seen of it while building its prototype and using it pretty heavily in real-world code (and teaching other developers to use it).
 
-I hope it will interest you enough to follow its progress, and even to find ways to help out, if you are able to do that and are so inclined.
+I hope it will interest you enough to follow its progress, and even to find ways to help out, if you are so inclined.
 
 Thank you for reading about it! Please leave comments, especially questions.
 
-Note: The project will use __C++17__ for now. Once I figure out the github issues, I want to validate the code along the way in all the major C++ compilers.
+Note: The project will use __C++17__ for now. Once I figure out the github issues, I want to validate the code along the way in all the major C++ compilers, though I will be doing my own work using MSVC.
